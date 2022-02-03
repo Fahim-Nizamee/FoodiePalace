@@ -1,0 +1,36 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>resource/271687.jpg</file>
+        <file>resource/6242651.jpg</file>
+        <file>resource/271694.jpg</file>
+        <file>resource/271701.jpg</file>
+        <file>resource/pexels-lukas-349610.jpg</file>
+        <file>resource/photo_2021-12-05_21-31-31.jpg</file>
+        <file>resource/photo_2021-12-09_13-18-25.jpg</file>
+        <file>resource/wood-2879254_1920.jpg</file>
+        <file>resource/logo.png</file>
+        <file>resource/profile.png</file>
+        <file>resource/271686.jpg</file>
+        <file>resource/Backgroud-img.jpg</file>
+        <file>resource/foodiesfeed_com_red_fruit_and_vegetables_on_a_white_background.jpg</file>
+        <file>resource/edit.png</file>
+        <file>resource/icons8-exit-100.png</file>
+        <file>resource/toppng.com-red-circle-2000x2000.png</file>
+        <file>resource/groceries.png</file>
+        <file>resource/logout 11111.png</file>
+        <file>resource/manEd.png</file>
+        <file>resource/womanED.png</file>
+        <file>resource/hot-pot.png</file>
+        <file>resource/browser.png</file>
+        <file>resource/chicken.png</file>
+        <file>resource/edit (1).png</file>
+        <file>resource/food-trolley.png</file>
+        <file>resource/pexels-karolina-grabowska-563236.jpg</file>
+        <file>resource/pexels-karolina-grabowska-5632371.jpg</file>
+        <file>resource/information.png</file>
+        <file>resource/menu.png</file>
+        <file>resource/history.png</file>
+        <file>resource/grocery-cart.png</file>
+        <file>resource/re5.jpg</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,49 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>Resource/33333.png</file>
+        <file>Resource/271708.jpg</file>
+        <file>Resource/271751.jpg</file>
+        <file>Resource/767033.jpg</file>
+        <file>Resource/767093.jpg</file>
+        <file>Resource/abcRes.qrc</file>
+        <file>Resource/chicken.png</file>
+        <file>Resource/CrownMan.png</file>
+        <file>Resource/CrownWoman.png</file>
+        <file>Resource/edit (1).png</file>
+        <file>Resource/edit (2).png</file>
+        <file>Resource/edit.png</file>
+        <file>Resource/emergency-exit.png</file>
+        <file>Resource/exit (1).png</file>
+        <file>Resource/exit.png</file>
+        <file>Resource/foodiesfeed_com_red_fruit_and_vegetables_on_a_white_background.jpg</file>
+        <file>Resource/gettyimages-1220159965-2048x2048.jpg</file>
+        <file>Resource/icons8-exit-100.png</file>
+        <file>Resource/image.qrc</file>
+        <file>Resource/imgbin_scroll-free-content-png.png</file>
+        <file>Resource/imgbin_scroll-free-content-png2.png</file>
+        <file>Resource/logo.png</file>
+        <file>Resource/logout (1).png</file>
+        <file>Resource/logout.png</file>
+        <file>Resource/manEd.png</file>
+        <file>Resource/new.jpg</file>
+        <file>Resource/pexels-elle-hughes-1660030.jpg</file>
+        <file>Resource/photo_2021-12-05_22-36-54.jpg</file>
+        <file>Resource/photo_2021-12-06_00-16-27.jpg</file>
+        <file>Resource/photo_2021-12-09_13-15-32.jpg</file>
+        <file>Resource/photo_2021-12-09_13-17-44.jpg</file>
+        <file>Resource/pinpng.com-male-symbol-png-1726976.png</file>
+        <file>Resource/profile.png</file>
+        <file>Resource/re2.png</file>
+        <file>Resource/re3.png</file>
+        <file>Resource/re5.jpg</file>
+        <file>Resource/Resource.qrc</file>
+        <file>Resource/sdasd.jpg</file>
+        <file>Resource/sdfg4.jpg</file>
+        <file>Resource/serdfsd.jpg</file>
+        <file>Resource/Tabletop Food Reel 2017 Sebastian Mayr.mkv</file>
+        <file>Resource/user.png</file>
+        <file>Resource/user-profile.png</file>
+        <file>Resource/womanED.png</file>
+        <file>Resource/Untitled (3).png</file>
+    </qresource>
+</RCC>
